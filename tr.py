@@ -1,3 +1,4 @@
+# Turtle Racing Game, dynamically programmed for for custom changes.
 import turtle
 import time
 import random
